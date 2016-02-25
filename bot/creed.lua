@@ -234,7 +234,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {177168187},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
@@ -477,14 +477,12 @@ function create_config( )
 ------------------------------------------------------------------------------------------------------------
  نکته !!!! :   با دستور *اخراجم کن* میتوانید از گروه بروید . 
 ------------------------------------------------------------------------------------------------------------
-کانال ما : @Pro_Programing
+کانال ما : @bot_tgch
 
 اعضای اصلی ما : 
 
-@Arsalan_Sahel  [سازنده]
-@Bad00boy_Creed [عضو اصلی ]
-@Creed_aria [عضو اصلی]
-@AmirCc_CreeD [عضو اصلی]
+@anonymous1221  [سازنده]
+
 ]],
   }
   serialize_to_file(config, './data/config.lua')
